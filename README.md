@@ -1,5 +1,5 @@
-@joshuaahughes
-FinTech, Alternative Data, Networks
-Python, Linux
-JoshuaAHughes12@gmail.com
+-@joshuaahughes
+-FinTech, Alternative Data, Networks
+-Python, Linux
+-JoshuaAHughes12@gmail.com
 
