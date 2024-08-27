@@ -1,5 +1,5 @@
 -@joshuaahughes
--FinTech, Alternative Data, Networks
--Python, Linux
+-FinTech, Alternative Data
+-Python, C#, Dart, JS
 -JoshuaAHughes12@gmail.com
 
