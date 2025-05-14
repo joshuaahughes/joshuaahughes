@@ -1,6 +1,6 @@
 ## Josh Hughes
 
-#### :mailbox: JoshuaAHughes12@gmail.com
+#### :mailbox: josh@datagainz.com
 
 #### :bar_chart: https://algopulse.org
 
