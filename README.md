@@ -1,6 +1,6 @@
 ## Josh Hughes
 
-#### :juggling_person: datagainz.com
+#### :juggling_person: https://datagainz.com
 
 #### :mailbox: josh@datagainz.com
 
